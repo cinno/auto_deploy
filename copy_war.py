@@ -4,6 +4,8 @@ import os.path
 import glob
 import shutil
 from globe_var import *
+
+
 '''
 在根目录新建war文件夹
 将taget文件里的包复制到war文件夹里
